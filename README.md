@@ -9,5 +9,5 @@ The knapsack algorithm is used to select the optimal foods within the adjusted c
 ensuring that users receive the best nutritional value while staying within their calorie 
 constraints. This approach allows users to achieve their dietary goals in a cost-effective way, 
 getting a balanced diet that supports either weight loss or gain. 
-The knapsack algorithm helps by selecƟng the best combinaƟon of foods that meet the targeted 
+The knapsack algorithm helps by selecting the best combinaƟon of foods that meet the targeted 
 calorie intake, ensuring that the diet is both nutrious and effective.
